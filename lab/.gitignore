@@ -1,0 +1,12 @@
+
+**.vscode/
+
+# Ignore all compilation files
+**/build/
+**.a
+
+# Ignore all input/output files
+**.in.gen
+**.out
+
+**.out.correct
